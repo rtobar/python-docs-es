@@ -204,7 +204,7 @@ msgid ""
 "lazily, so there is no speed penalty if only those attributes which are "
 "lightweight to compute are used."
 msgstr ""
-"Note que vía los hooks :meth:`__getattr__`, todos los atributos son "
+"Note que vía los hooks :meth:`~object.__getattr__`, todos los atributos son "
 "perezosamente computados, así que no hay penalización de velocidad si sólo "
 "esos atributos que son ligeros de computar son utilizados."
 
