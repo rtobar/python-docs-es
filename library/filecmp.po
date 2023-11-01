@@ -198,7 +198,6 @@ msgstr ""
 "árboles de directorio que están siendo comparados."
 
 #: ../Doc/library/filecmp.rst:103
-#, fuzzy
 msgid ""
 "Note that via :meth:`~object.__getattr__` hooks, all attributes are computed "
 "lazily, so there is no speed penalty if only those attributes which are "
