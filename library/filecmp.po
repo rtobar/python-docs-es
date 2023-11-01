@@ -145,7 +145,6 @@ msgid "The :class:`dircmp` class"
 msgstr "La clase :class:`dircmp`"
 
 #: ../Doc/library/filecmp.rst:75
-#, fuzzy
 msgid ""
 "Construct a new directory comparison object, to compare the directories *a* "
 "and *b*.  *ignore* is a list of names to ignore, and defaults to :const:"
@@ -154,7 +153,7 @@ msgid ""
 msgstr ""
 "Construye un nuevo objeto de comparación de directorio, para comparar los "
 "directorios *a* y *b*. *ignore* es una lista de nombres a ignorar, y "
-"predetermina a :attr:`filecmp.DEFAULT_IGNORES`. *hide* es una lista de "
+"predetermina a :const:`filecmp.DEFAULT_IGNORES`. *hide* es una lista de "
 "nombres a ocultar, y predetermina a ``[os.curdir, os.pardir]``."
 
 #: ../Doc/library/filecmp.rst:80
