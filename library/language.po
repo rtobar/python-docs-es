@@ -29,9 +29,9 @@ msgid ""
 "language.  These modules support tokenizing, parsing, syntax analysis, "
 "bytecode disassembly, and various other facilities."
 msgstr ""
-"Python proporciona una serie de módulos para ayudar a trabajar con el "
-"lenguaje Python. Estos módulos admiten tokenización, análisis, análisis "
-"sintáctico, desensamblado de código de bytes, entre otras funciones."
+"Python provee una serie de módulos para ayudar a trabajar con el lenguaje "
+"Python. Estos módulos admiten tokenización, análisis, análisis sintáctico, "
+"desensamblado de código de bytes, entre otras funciones."
 
 #: ../Doc/library/language.rst:11
 msgid "These modules include:"

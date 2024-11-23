@@ -26,7 +26,7 @@ Muestra los porcentajes completados por directorio y solo los archivos que no es
 Completados
 -----------
 
-Lista todos los archivos con un porcentaje de traducción mayor al 90% (para contemplar los que tienen fuzzy).
+Lista todos los ficheros con un porcentaje de traducción mayor al 90% (para contemplar los que tienen fuzzy).
 
 
 .. runblock:: console
